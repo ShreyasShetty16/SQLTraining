@@ -1,0 +1,2 @@
+# SQLTraining
+SQL Training Assignments
